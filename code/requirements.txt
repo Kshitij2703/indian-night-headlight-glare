@@ -6,5 +6,3 @@ pillow
 matplotlib
 pandas
 pyyaml
-scipy
-transformers

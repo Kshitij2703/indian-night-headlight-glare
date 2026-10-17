@@ -24,4 +24,4 @@ yolo detect train data=dataset/data.yaml model=yolo11s.pt imgsz=960
 
 ## License
 
-Annotations: CC BY 4.0. Code: see `LICENSE-code.txt`.
+Annotations: CC BY 4.0. Code: MIT.
