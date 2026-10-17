@@ -1,0 +1,7 @@
+video,prefix,youtube_url,duration_s,original_resolution,fps,title,use
+video-1,v1_,https://www.youtube.com/watch?v=TvoK5Q2bzJ0,604,1280x720,60/1,AFTER 2 AM 🌙 | Fortuner Night POV Drive,used
+video-2,v2_,https://www.youtube.com/watch?v=3QDotIs2POQ,78,1280x720,60/1,Mere Bina | Crook | Night Drive | Highway | Car driving status |,"used (10 frames, train only)"
+video-3,,https://www.youtube.com/watch?v=NRa7IIRE5zA,1687,1920x1080,30000/1001,,not used (fisheye interior view)
+video-4,,https://www.youtube.com/watch?v=NRa7IIRE5zA,1687,1920x1080,30000/1001,,"duplicate of video-3, not used"
+video-5,v5_,https://www.youtube.com/watch?v=2G1zL1m25G8,1482,1920x1080,30/1,,used
+video-6,v6_,https://www.youtube.com/watch?v=9GxXnKfJJ9g,4362,1280x720,25/1,,used

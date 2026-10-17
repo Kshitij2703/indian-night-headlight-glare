@@ -1,0 +1,8 @@
+# Indian Night Headlight Glare dataset (rebuild images with rebuild_frames.py)
+path: .
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names: ['headlight glare']
